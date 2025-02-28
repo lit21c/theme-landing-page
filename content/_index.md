@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your FOREST Pages with Hugo Blox
+      title: Build Your FOREST FrontiersPages with Hugo Blox
       text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
       primary_action:
         text: Get Started
